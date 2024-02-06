@@ -12,3 +12,5 @@ DESCRIPTION:
  a high-intensity workout routine that also tracks their weight and goal. An idea to help motivate
  people to use the software regularly is to give regular users coupon codes for healthy or
  high-protein meals.
+
+![2-5-24, 9_54 PM Microsoft Lens-1](https://github.com/Bunroung/Project-Proposal-CSC-340/assets/142445502/635e04c1-e93b-4ea6-9a65-b08582ee111d)
